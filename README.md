@@ -1,8 +1,10 @@
 # Uppgift JS Shoppingsida 🛒
 
+
 Denna uppgift prövar färdigheter genom att använda arraymetoder, objekt och funktioner i ett sammanhang där du ska utveckla funktionalitet för en shoppingsida utifrån befintlig produktdata samt spara kundvagnsdata i  LocalStorage.
 
 Du får endast utveckla sidan med ren JavaScript (d.v.s Vanilla, inget ramverk/bibliotek)
+
 
 ## Startkod
 
@@ -87,6 +89,6 @@ Denna html-template ska generera en produkt från kundvagnen och ska renderas i 
          </div>
      </div>
 
-**Styling**
+## Övrigt
 
 Du är fri att ändra i styling, men inget måste i uppgiften!
