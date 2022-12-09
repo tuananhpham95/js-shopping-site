@@ -6,7 +6,7 @@ Du får endast utveckla sidan med ren JavaScript (d.v.s Vanilla, inget ramverk/b
 
 ## Startkod
 
-**Data:** 
+### Data:
 
 Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är länkad till både index.html och cart.html och ser ut enligt följande:
        
@@ -29,17 +29,17 @@ Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är län
                     image:'...'
                 }
             ]
-**Filer:** 
+### Filer:
 
        main.js       Logik för att visa/hantera alla produkter
        cart.js       Logik för visa/hantera kundvagnens produkter 
        style.css     Innehåller styling och korresponderar till html-templates i startkoden. Du är fri att ändra!
        
-**HTML-templates***
+### HTML-templates
 
-Du är fri att ändra i html-templates som finns i startkoden. Nuvarande uppmärkning korresponderar mot style.css
+Du är fri att ändra i html-templates som finns i startkoden, men tänk på att nuvarande uppmärkning hör till style.css
 
-Denna html-template ska generera en produkt i index.html och korresponderar 
+Denna html-template ska generera en produkt i index.html: 
 
     <div id=product-id-{--id--} class="item">
         <img width="220" src={--url--} alt=""> 
@@ -59,7 +59,7 @@ Denna html-template ska generera en produkt i index.html och korresponderar
         </div>
     </div>
 
-Denna html-template ska generera en produkt från kundvangnen och ska visas på cart.html 
+Denna html-template ska generera en produkt från kundvagnen och ska renderas i cart.html: 
 
      <div id=product-id-{--id--} class="item">
          <img width="220" src={--url--} alt=""> 
