@@ -2,6 +2,7 @@
 
 
 **Data** 
+
 Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är länkad till både index.html och cart.html och ser ut enligt följande:
        
             [
