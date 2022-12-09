@@ -2,7 +2,6 @@
 
 
 **Data** 
-
 Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är länkad till både index.html och cart.html och ser ut enligt följande:
        
             [
@@ -26,8 +25,6 @@ Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är län
             ]
 **Filer**: 
 
-main.js       Logik för att visa/hantera alla produkter
-
-cart.js       Logik för visa/hantera kundvagnens produkter 
-       
-style.css     Innehåller styling och korresponderar till html-templates i startkoden. Du är fri att ändra!
+       main.js       Logik för att visa/hantera alla produkter
+       cart.js       Logik för visa/hantera kundvagnens produkter 
+       style.css     Innehåller styling och korresponderar till html-templates i startkoden. Du är fri att ändra!
