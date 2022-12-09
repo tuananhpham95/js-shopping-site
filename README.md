@@ -45,7 +45,7 @@ Du sparar och hämtar data i kundvagnen i LocalStorage. Datat i LocalStorage ska
        
 ### HTML-templates
 
-Du är fri att ändra i html-templates som finns i startkoden, men tänk på att nuvarande uppmärkning hör till style.css
+Du är fri att ändra i html-templates som finns i startkoden, men tänk på att nuvarande uppmärkning korresponderar till style.css
 
 Denna html-template ska generera en produkt i index.html: 
 
