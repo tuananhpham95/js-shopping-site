@@ -29,11 +29,19 @@ Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är län
                     image:'...'
                 }
             ]
+
+
 ### Filer:
 
        main.js       Logik för att visa/hantera alla produkter
        cart.js       Logik för visa/hantera kundvagnens produkter 
        style.css     Innehåller styling och korresponderar till html-templates i startkoden. Du är fri att ändra!
+       
+### LocalStorage
+
+Du sparar och hämtar data i kundvagnen i LocalStorage. Datat i LocalStorage ska endast innehålla produktid:et samt motsvarande valt antal. Du ska alltså kunna hämta 'basket' både från main.js och cart.js. 
+
+       let basket = JSON.parse(localStorage.getItem("data")) || [];
        
 ### HTML-templates
 
