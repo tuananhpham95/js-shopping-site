@@ -1,8 +1,9 @@
 # Uppgift JS Shoppingsida
 
 
-**Data**: 
-Finns i data.js som ett objekt shopData.js. Denna js-är länkad till både index.html och cart.html. Datat har följande keys:
+**Data** 
+
+Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är länkad till både index.html och cart.html och ser ut enligt följande:
        
             [
                 {
@@ -23,6 +24,7 @@ Finns i data.js som ett objekt shopData.js. Denna js-är länkad till både inde
                     image:'...'
                 }
             ]
+**Filer**: 
 
 main.js       Logik för att visa/hantera alla produkter
 
