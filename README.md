@@ -95,6 +95,6 @@ Du är fri att ändra i styling, men inget måste i uppgiften!
 
 ## Hur det kan se ut
 
-![https://github.com/chasacademy-sandra-larsson/js--shopping-site/blob/main/screens/produktsida.png]
+![](https://github.com/chasacademy-sandra-larsson/js--shopping-site/blob/main/screens/produktsida.png)
 
-![https://github.com/chasacademy-sandra-larsson/js--shopping-site/blob/main/screens/kundvagn.png]
+![](https://github.com/chasacademy-sandra-larsson/js--shopping-site/blob/main/screens/kundvagn.png)
