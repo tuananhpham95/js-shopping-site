@@ -1,7 +1,7 @@
 # Uppgift JS Shoppingsida
 
 
-**Data** 
+**Data:** 
 
 Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är länkad till både index.html och cart.html och ser ut enligt följande:
        
@@ -24,7 +24,7 @@ Produktdatan finns i data.js soch nås med variabeln shopData. Denna js-är län
                     image:'...'
                 }
             ]
-**Filer**: 
+**Filer:** 
 
        main.js       Logik för att visa/hantera alla produkter
        cart.js       Logik för visa/hantera kundvagnens produkter 
