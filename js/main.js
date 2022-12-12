@@ -2,7 +2,7 @@ const shop = document.getElementById('shop');
  
 let basket = JSON.parse(localStorage.getItem("data")) || [];
 
-// Datat litter i variabeln shopData (se data.js)
+// Produktdatat finns i variabeln shopData (se data.js)
 
 
 const generateShop = () => {
