@@ -2,10 +2,11 @@ let shoppingCart = document.getElementById("shopping-cart")
 
 let basket = JSON.parse(localStorage.getItem("data")) || []
 
-// Datat litter i variabeln shopData (se data.js)
+
+// Produktdatat finns i variabeln shopData (se data.js)
 
 
-let generateCartItems = () => {
+const generateCartItems = () => {
     // Generera alla produkter med dynamisk HTML och Array.protype.map() samt join()
     //
     // Använd denna markup för varje produktkort - den korresponderar mot CSS:en
