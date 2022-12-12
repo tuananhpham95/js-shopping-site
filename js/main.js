@@ -30,6 +30,7 @@ const generateShop = () => {
 
 }
 
+generateShop()
 
 const increment = (id) => {
     // Om användaren klickar på + på produkten 
