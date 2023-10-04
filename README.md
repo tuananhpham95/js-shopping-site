@@ -2,6 +2,6 @@
 
 Tuan Anh Pham
 
-Netlify : shopping-site-js.netlify.app
+Netlify : [shopping-site-js.netlify.app](https://shopping-site-js.netlify.app/)https://shopping-site-js.netlify.app/
 
 
